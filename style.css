@@ -1,0 +1,19 @@
+h1{
+    color:rgb(255, 255, 255);
+}
+.img{
+    border: 10px solid rgb(157, 71, 5);
+    border-radius: 100%;
+    width: 400px;
+}
+.b{
+    font-size: 80px;
+    background: rgb(157, 71, 5);
+    letter-spacing: 10px;
+    text-decoration: underline;
+}
+div{
+    border-bottom: 5px solid rgb(157, 71, 5);
+    display: inline-block;
+    font-size: 30px;
+}
